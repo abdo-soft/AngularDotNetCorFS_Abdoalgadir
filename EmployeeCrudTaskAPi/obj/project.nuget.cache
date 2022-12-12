@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hNOjhvQhThaTOfJvEfoLVuGgA0DgEJGRymQ8fi/g8voEd8ohpd3c97AevJ3zIsposbtE6Ng9fHNxXdIwrOZBPg==",
+  "dgSpecHash": "IslOF4XIX6Y99HOLxDG1GBOFTn3IFmyVeKR78tHJzllcgBjtzZ7FWVJVlftjaLuY63eJ4d1qlLVm59MSkiEUyA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Abdoalgadir\\Desktop\\ass\\EmployeeCrudTaskAPi\\EmployeeCrudTaskAPi.csproj",
+  "projectFilePath": "C:\\Users\\Abdoalgadir\\Documents\\GitHub\\myproject\\AngularDotNetCorFS_Abdoalgadir\\EmployeeCrudTaskAPi\\EmployeeCrudTaskAPi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Abdoalgadir\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Abdoalgadir\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

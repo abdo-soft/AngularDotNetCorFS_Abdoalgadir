@@ -6882,11 +6882,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Abdoalgadir\\Desktop\\ass\\EmployeeCrudTaskAPi\\EmployeeCrudTaskAPi.csproj",
+      "projectUniqueName": "C:\\Users\\Abdoalgadir\\Documents\\GitHub\\myproject\\AngularDotNetCorFS_Abdoalgadir\\EmployeeCrudTaskAPi\\EmployeeCrudTaskAPi.csproj",
       "projectName": "EmployeeCrudTaskAPi",
-      "projectPath": "C:\\Users\\Abdoalgadir\\Desktop\\ass\\EmployeeCrudTaskAPi\\EmployeeCrudTaskAPi.csproj",
+      "projectPath": "C:\\Users\\Abdoalgadir\\Documents\\GitHub\\myproject\\AngularDotNetCorFS_Abdoalgadir\\EmployeeCrudTaskAPi\\EmployeeCrudTaskAPi.csproj",
       "packagesPath": "C:\\Users\\Abdoalgadir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Abdoalgadir\\Desktop\\ass\\EmployeeCrudTaskAPi\\obj\\",
+      "outputPath": "C:\\Users\\Abdoalgadir\\Documents\\GitHub\\myproject\\AngularDotNetCorFS_Abdoalgadir\\EmployeeCrudTaskAPi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
